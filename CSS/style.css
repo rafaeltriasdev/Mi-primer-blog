@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: rgb(153, 153, 153);
     color: black;
+    width: 100%;
 }
 header {
     background: black;
@@ -12,6 +13,7 @@ header {
     text-align: center;
 }
 .banner {
+    align-items: center;
 }
 .topic {
     background-color: white;
@@ -73,3 +75,4 @@ button {
     background: white;
     color: rgb(0, 0, 0);
 }
+
