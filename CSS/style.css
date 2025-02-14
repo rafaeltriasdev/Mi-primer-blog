@@ -75,4 +75,6 @@ button {
     background: white;
     color: rgb(0, 0, 0);
 }
-
+@media (max-width: 800px) {
+    /* … */
+  }
